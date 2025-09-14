@@ -1,3 +1,5 @@
+# PROJECT DETAILS
+
 Project-1 (Create a snake,water and gun Game or rock paper scissor Game)
 
 Project-2 (Create a Number Guessing Game. If you guess high it will tell you to guess low, if you guess low it will tell you to guess high and if you guess right it will congratulate you.)
